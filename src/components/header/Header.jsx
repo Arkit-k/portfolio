@@ -81,7 +81,8 @@ const Header = () => {
             </li>
             <li className="nav__item">
               <a
-                href="#contact"
+                href="https://github.com/Arkit-k/portfolio"
+              
                 onClick={() => setActiveNav("#contact")}
                 className={
                   activeNav === "#home" ? "nav__link active-link" : "nav__link"

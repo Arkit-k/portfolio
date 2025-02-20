@@ -49,7 +49,7 @@ const Data = () => {
         I'm creative devoloper based in india, and I'm very passionate about learning new things and working with new technology.
       </p>
       <a href="#contact" className="button button--flex">
-        Say Hello
+        Hire me
         <svg
           className="button__icon"
           xmlns="http://www.w3.org/2000/svg"
